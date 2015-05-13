@@ -1,0 +1,49 @@
+{
+   "packages":[
+      {
+         "name":"littlerobotfriends",
+         "maintainer":"Little Robot Friends",
+         "websiteURL":"http://littlerobotfriends.com",
+         "email":"hello@littlerobotfriends.com",
+         "help":{
+            "online":"http://learn.littlerobotfriends.com"
+         },
+         "platforms":[
+            {
+               "name":"Little Robot Friends Boards",
+               "architecture":"avr",
+               "version":"1.0.0",
+               "category":"LittleRobotFriends",
+               "url":"https://aesthetec.github.io/littlerobotfriends/boards/lrf-1.0.0.tar.bz2",
+               "archiveFileName":"lrf-1.0.0.tar.bz2",
+               "checksum":"SHA-256:4e72d4267d9a8d86874edcd021dc661854a5136c0eed947a6fe10366bc51e373",
+               "size":"29455",
+               "help":{
+                  "online":"http://learn.littlerobotfriends.com"
+               },
+               "boards":[
+                  {
+                     "name":"Little Robot Friends"
+                  },
+                  {
+                     "name":"Little Robot Friends - Dock"
+                  }
+               ],
+               "toolsDependencies":[
+                  {
+                     "packager":"arduino",
+                     "name":"avr-gcc",
+                     "version":"4.8.1-arduino5"
+                  },
+                  {
+                     "packager":"arduino",
+                     "name":"avrdude",
+                     "version":"6.0.1-arduino5"
+                  }
+               ]
+            }
+         ],
+         "tools":[]
+      }
+   ]
+}
