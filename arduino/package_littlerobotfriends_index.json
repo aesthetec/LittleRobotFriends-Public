@@ -16,7 +16,7 @@
                "category":"LittleRobotFriends",
                "url":"https://aesthetec.github.io/LittleRobotFriends-Public/arduino/boards/lrf-1.0.0.tar.bz2",
                "archiveFileName":"lrf-1.0.0.tar.bz2",
-               "checksum":"SHA-256:8677b6244f3e97411621bd0939e36594396cf6741cdc74dd08ecb65d45af5ac2",
+               "checksum":"SHA-256:86be31c4cc7d0db454aa869331e207c8797f2deeed186992c11aec61113f02cf",
                "size":"1414",
                "help":{
                   "online":"http://learn.littlerobotfriends.com"
